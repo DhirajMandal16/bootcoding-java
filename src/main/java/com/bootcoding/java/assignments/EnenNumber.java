@@ -1,4 +1,4 @@
-package assignments;
+package com.bootcoding.java.assignments;
 //evenNumber
 public class EnenNumber {
     public static void main(String[] args) {

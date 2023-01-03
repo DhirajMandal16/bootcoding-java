@@ -1,3 +1,5 @@
+package com.bootcoding.java.assignments;
+
 public class OddNumber {
     public static void main(String[] args) {
         int n=10;
